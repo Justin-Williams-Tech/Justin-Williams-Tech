@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 
 💻 Socials: If you're interested in connecting with me, use the social media provided below
     
-    📭**LinkedIn:** [Justin Williams](https://www.linkedin.com/in/justin-w-938434146/)
-
-    📧**E-Mail:** [justintech904@gmail.com](mailto:justintech904@gmail.com)
+    📭**LinkedIn:** <a href="https://www.linkedin.com/in/justin-w-938434146/">Justin Williams</a> 
+    
