@@ -13,5 +13,7 @@ Here are some ideas to get you started:
 🚩 Fun fact: I enjoy being able to learn new things and implement what I learn to help others learn or be value add.
 
 💻 Socials: If you're interested in connecting with me, use the social media provided below
+    
     📭LinkedIn: [Justin Williams](https://www.linkedin.com/in/justin-w-938434146/)
+
     📧E-Mail: <justintech904@gmail.com>
